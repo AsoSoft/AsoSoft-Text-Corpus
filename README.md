@@ -7,3 +7,5 @@ This repository includes the following files:
 2. AsoSoft large corpus: This file contains 75 millon tokens.
 3. Asosoft Corpus for topic identification.
 
+NOTE: If you are using our text corpus reference to rhis paper.
+Hadi Veisi, Mohammad MohammadAmini, Hawre Hosseini, (2018), Toward Kurdish Language Processing: Experiments in Collecting and Processing the AsoSoft Text Corpus. Digital Scholarship in the Humanities, Oxford University Press.
