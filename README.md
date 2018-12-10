@@ -1,4 +1,4 @@
-# AsoSoft-Text-Corpus
+# AsoSoft Text Corpus
 AsoSoft Text Corpus is the first large scale text corpus for the Kurdish language. 
 This text corpus in for non-commercial use and researchers all over the world can use it for research projects.
 
