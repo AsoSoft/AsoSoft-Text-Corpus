@@ -28,7 +28,7 @@ Asosoft text corpus is applicable for following research areas:
 
   o Topic Identification
 
-#How to Use
+# How to Use
 Some common editors for opening large text files are: EmEdior, TlCorpus, TextPad and so forth.
 
 
@@ -37,7 +37,7 @@ This repository includes the following files:
 2. AsoSoft large corpus: This file contains 75 million tokens.
 3. Asosoft Corpus for topic identification.
 
-
+# License
 This text corpus in for non-commercial use and researchers all over the world can use it for research projects.
 
 <b>NOTE</b>: If you are using our text corpus cite us.
