@@ -18,7 +18,7 @@ A lot of normalization is done on this text corpus, including:
 </ul> 
 More detail about normalization which is done is presented in our paper.
 
-# Application
+# Applications
 Asosoft text corpus is applicable for following research areas:
 
 •	Linguistics
@@ -36,7 +36,7 @@ Asosoft text corpus is applicable for following research areas:
   o Extracting computational lexicons
 
 # How to Use
-Some common editors for opening large text files are: EmEdior, TlCorpus, TextPad and so forth.
+Some common editors for work with large text files are: EmEdior, TlCorpus, TextPad and so forth.
 
 # License
 This text corpus in for non-commercial use and researchers all over the world can use it for research projects.
