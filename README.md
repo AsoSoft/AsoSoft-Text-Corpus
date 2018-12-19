@@ -32,6 +32,8 @@ Asosoft text corpus is applicable for following research areas:
   o	Word vector representation
 
   o Topic Identification
+  
+  o Extracting computational lexicons
 
 # How to Use
 Some common editors for opening large text files are: EmEdior, TlCorpus, TextPad and so forth.
