@@ -7,8 +7,8 @@ A lot of normalization is done on this text corpus, including:
   <li>Non-unicode characters are converted.</li>
   <li>Multi-code Unicode Characters are unified and converted to Kurdish characters.</li>
   <li> Everywhere ("h"+ "ZWNJ") is used, it is replaced Kurdish "ە". </li>
-  <li> If conjuctive "و"  joined to the previous word it is separated using a novel suggested algorithm.</li>
- <li> Everywhere "ر" or "وو" is used as the first letter of words, it is replaced with "ڕ" or "وو"  correspondingly.</li>
+  <li> If conjuctive "و"  is joined to its previous word, it is separated using a novel suggested algorithm.</li>
+  <li> Everywhere "ر" or "وو" is used as the first letter of words, it is replaced with "ڕ" or "وو"  correspondingly.</li>
  <li>...</li>
 </ul> 
 More detail about normalization which is done is presented in our paper.
