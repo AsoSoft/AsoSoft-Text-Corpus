@@ -1,6 +1,11 @@
 # AsoSoft Kurdish Text Corpus Ver 1.0
 AsoSoft Text Corpus is the first large scale text corpus for the Kurdish language. This text corpus is compiled and processed by AsoSoft R&D Group (http://asosoft.com/en/). 
 
+This repository includes the following files:
+1. AsoSoft mini corpus: This file contains 5 million tokens.
+2. AsoSoft large corpus: This file contains 75 million tokens.
+3. Asosoft Corpus for topic identification.
+
 # Normalization
 A lot of normalization is done on this text corpus, including:
  <ul style="list-style-type:circle">
@@ -30,12 +35,6 @@ Asosoft text corpus is applicable for following research areas:
 
 # How to Use
 Some common editors for opening large text files are: EmEdior, TlCorpus, TextPad and so forth.
-
-
-This repository includes the following files:
-1. AsoSoft mini corpus: This file contains 5 million tokens.
-2. AsoSoft large corpus: This file contains 75 million tokens.
-3. Asosoft Corpus for topic identification.
 
 # License
 This text corpus in for non-commercial use and researchers all over the world can use it for research projects.
