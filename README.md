@@ -43,4 +43,4 @@ This text corpus in for non-commercial use and researchers all over the world ca
 
 <b>NOTE</b>: If you are using our text corpus cite us.
 
-Hadi Veisi, Mohammad MohammadAmini, Hawre Hosseini, (2018), Toward Kurdish Language Processing: Experiments in Collecting and Processing the AsoSoft Text Corpus. Digital Scholarship in the Humanities, Oxford University Press.
+Hadi Veisi, Mohammad MohammadAmini, Hawre Hosseini; Toward Kurdish language processing: Experiments in collecting and processing the AsoSoft text corpus, Digital Scholarship in the Humanities, , fqy074, https://doi.org/10.1093/llc/fqy074
